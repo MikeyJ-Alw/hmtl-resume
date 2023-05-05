@@ -1,0 +1,131 @@
+.Skills {
+    color:blueviolet;
+    background-color:#FFE6C7;
+}
+
+
+
+#imageandiborder {
+    border:black solid 10px;
+}
+
+
+
+
+
+.workexperience {
+    color:darkmagenta;
+    background-color:#FFE6C7;
+    
+}
+
+
+.copyright {
+    color:crimson;
+    background-color:#FFE6C7; 
+
+}
+
+
+.education {
+    color:brown; 
+    background-color:#FFE6C7;
+}
+
+
+.education {
+    text-align:"center";
+}
+
+
+* {
+    font-family: 'Caveat Brush', cursive;
+}
+
+* {
+    text-align:"center" ;
+}
+
+.copyright {
+    font-weight:bolder ; 
+}
+
+* {
+    font-weight:bold
+}
+
+.summary {
+    color:blue ;
+    background-color:#FFE6C7;
+    
+}
+
+body {
+    background-color:#454545 ; 
+}
+
+
+
+.divworkexperience ul {
+    border: solid black 5px;
+    padding:5px;
+    
+    
+    
+
+}
+
+#hrcolor{
+    border:black solid 2px;
+}
+
+
+.contactabout {
+    color:black;
+    font-weight:bolder;
+    
+    
+
+
+}
+
+.contactaboutdiv {
+
+    border: solid black 5px; 
+    margin-left : 35px ;
+    padding : 5px;
+    display:inline-block;
+    text-align: center;
+    background-color: #FFE6C7;
+    
+    
+}
+
+.contactaboutheader {
+    font-weight:bolder;
+}
+
+.diveducation ul {
+    border:solid black 5px;
+    padding:5px;
+    
+}
+
+.divsummary ul  {
+    border:black solid 5px;
+    padding:5px;
+    
+    
+
+}
+
+.divskills ul{
+    border:solid black 5px;
+    padding:5px;
+    
+    
+}
+
+.divcopyright p {
+    border: solid black 5px;
+}
