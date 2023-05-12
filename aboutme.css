@@ -1,0 +1,25 @@
+body {
+    background-color:#6b6b6b ; 
+}
+
+#aboutme {
+    font-family: 'Castoro Titling', cursive;
+    font-size:75px;
+    width:fit-content;
+    text-align: center;
+    margin:0 auto;
+}
+
+
+#paragraph {
+    font-family: 'Fira Sans Extra Condensed', sans-serif;
+    font-size:35px;
+
+}
+
+#aboutmediv {
+    border:black solid 10px; 
+    background-color:#FFE6C7;
+    padding:200px;
+    width:fit-content;
+}
